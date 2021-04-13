@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: deeppink;
+}
+h1{
+    color: indigo;
+    text-decoration: underline;
+    text-decoration-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{
+    width: 400px;
+    height: 300px;
+    border-style: ridge;
+    border-color: turquoise;
+}
+h2{
+    color: skyblue;
+    text-decoration-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
